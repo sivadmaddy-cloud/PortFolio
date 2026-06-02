@@ -23,7 +23,7 @@ const CONFIG = {
   github: "https://github.com/sivadmaddy-cloud",
   linkedin: "https://www.linkedin.com/in/siva-lingam-p-5716a323b/",
   resumeLink: "https://drive.google.com/file/d/your-resume-id/view",
-  appScriptURL:"https://script.google.com/macros/s/AKfycbwm_wCCONMmrmNcUd3vd3pQqQZH3sDzdoCKNDkf09Xb3ECT1Du3OAYcdfdda-i5T2jW/exec",
+  appScriptURL:"https://script.google.com/macros/s/AKfycbxezCyasIOi3d6SX_yHOOxwchKjsujvsbtEH7AwFRA5xiPEFXyEE-c6USNYZfbDt_53/exec",
 
   heroStats: [
     { value: "20+", label: "PROJECTS BUILT" },
