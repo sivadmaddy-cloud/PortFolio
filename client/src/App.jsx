@@ -26,27 +26,27 @@ const CONFIG = {
   appScriptURL:"https://script.google.com/macros/s/AKfycbxezCyasIOi3d6SX_yHOOxwchKjsujvsbtEH7AwFRA5xiPEFXyEE-c6USNYZfbDt_53/exec",
 
   heroStats: [
-    { value: "20+", label: "PROJECTS BUILT" },
-    { value: "3+",  label: "YEARS EXP" },
+    { value: "10+", label: "PROJECTS BUILT" },
+    { value: "Fresher", label: "CAREER STATUS" },
     { value: "MERN", label: "STACK FOCUS" },
-    { value: "15+", label: "CLIENTS" },
+    { value: "100%", label: "DEDICATION" },
   ],
 
   about: {
-    bio: `I'm a passionate MERN Stack Developer with 3+ years of experience building robust, scalable web applications. I thrive at the intersection of clean code and intuitive design — turning complex requirements into seamless digital experiences.`,
+    bio: `I'm a passionate and driven Fresher MERN Stack Developer, eager to build robust, scalable web applications from day one. I thrive at the intersection of clean code and intuitive design — turning complex requirements into seamless digital experiences.`,
     bio2: `Currently sharpening my Full Stack skills, building real-world projects, and always exploring emerging technologies that push the web forward.`,
     highlights: [
       "💻 MERN Stack Developer — MongoDB, Express, React, Node.js",
       "📚 Continuously improving Full Stack Development skills",
       "🛠️ Skilled in building responsive and dynamic web applications",
-      "🎯 Delivered 20+ real-world projects for clients",
+      "🎯 Built 10+ real-world personal & academic projects",
       "🌱 Always exploring new technologies and best practices",
       "🚀 Open to Full-Time / Internship opportunities",
     ],
     stats: [
-      { label: "Projects", value: "20+" },
-      { label: "Experience", value: "3 Yrs" },
-      { label: "Clients", value: "15+" },
+      { label: "Projects", value: "10+" },
+      { label: "Status", value: "Fresher" },
+      { label: "Tech Stack", value: "MERN" },
       { label: "Commits", value: "500+" },
     ],
   },
