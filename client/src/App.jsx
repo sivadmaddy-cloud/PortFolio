@@ -22,7 +22,7 @@ const CONFIG = {
   location: "Bangalore, Karnataka, India",
   github: "https://github.com/sivadmaddy-cloud",
   linkedin: "https://www.linkedin.com/in/siva-lingam-p-5716a323b/",
-  resumeLink: "https://drive.google.com/file/d/1Z8DuCAAxVDjtEods76AOoz2ZecDeqCw7/view?usp=sharing",
+  resumeLink: "https://docs.google.com/document/d/1VAwEPZCMwap4i2bB0dn6LelYMcNfSVjDaIhV25r7T6c/edit?usp=sharing",
   appScriptURL:"https://script.google.com/macros/s/AKfycbxezCyasIOi3d6SX_yHOOxwchKjsujvsbtEH7AwFRA5xiPEFXyEE-c6USNYZfbDt_53/exec",
 
   heroStats: [
